@@ -37,5 +37,5 @@
 
 </br>
 
-## 5. 프로젝트 과정 상세 글
+## 5. 프로젝트 과정 상세 글 (작성중)
 >https://borabora123.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/bookshop
